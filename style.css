@@ -216,11 +216,57 @@ min --> Valor maior que o Npx, aplica o css do media */
 
     }    
     video {
+        width: 159vw;
         height: 100vh;
-        width: 385vw;
     }    
 }
 
+@media (max-width: 500px) {
+
+    h1 {
+        display: none;
+    }
+    p {
+        display: none;
+    }
+
+    .caixa-mae{
+        flex-direction: column;
+        justify-content: flex-start;
+        padding: 10px;
+        
+    }
+
+    .caixa-principal {
+        display: flex;
+        align-items: center;
+        flex-direction: column;        
+    }
+
+    .mario-e-luigi{
+        width: 80vw;
+        height: auto;
+    }
+
+    .cabeça-mario {
+        margin: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .cabeça-mario img{
+        display: none;
+    }
+
+    .cabeça-mario a {
+        font-size: 20px;
+
+    }    
+    video {
+        width: 385vw;
+    }    
+}
 
 
 
