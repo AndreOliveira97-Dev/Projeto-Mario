@@ -211,8 +211,14 @@ min --> Valor maior que o Npx, aplica o css do media */
 
     .cabeça-mario a {
         font-size: 20px;
-
     }        
+    .cabeça-mario a:hover {
+    color: #c51111;
+    transition: 0.5s ease-in-out;
+    }
+     video {
+        width: 385vw;
+    } 
 }
 
 
