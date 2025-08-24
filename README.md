@@ -16,6 +16,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://github.com/AndreOliveira97-Dev/Projeto-Mario/blob/main/img.mario/Computador%20assist%C3%AAncia%20t%C3%A9cnica%20comprar%20monitor%20novo%20azul%20e%20roxo%20-%20story%20do%20Instagram%20redes%20sociais.png?raw=true"/>
+<img src="https://github.com/AndreOliveira97-Dev/Projeto-Mario/blob/main/img/Computador%20assist%C3%AAncia%20t%C3%A9cnica%20comprar%20monitor%20novo%20azul%20e%20roxo%20-%20story%20do%20Instagram%20redes%20sociais.png?raw=true"/>
 
 
