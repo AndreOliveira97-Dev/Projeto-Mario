@@ -83,7 +83,6 @@ video {
     background: linear-gradient(109deg, rgba(15, 15, 16, 0.99) 15%, rgba(63, 63, 65, 0.7) 50%, rgba(15, 15, 17, 0.99) 85%);
     position: fixed;
     top: 0;
-
 }
 
 
@@ -255,7 +254,7 @@ min --> Valor maior que o Npx, aplica o css do media */
         justify-content: center;
     }
 
-    .cabeça-mario img{
+    .cabeça-mario img {
         display: none;
     }
 
